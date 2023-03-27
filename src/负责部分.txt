@@ -1,0 +1,14 @@
+登录（加密）：
+接入高德地图api：
+echarts:
+
+桥梁管理系统
+责任描述：前端开发+nodejs接口开发(express)
+技术栈：Vue2、Vue-Router、ElementUI、Nodejs
+项目业务：
+Vue-Router路由权限拦截以及路由懒加载
+引入Echarts库，实现数据可视化
+高德地图api，显示桥体地点和信息窗体
+开发登录接口与echarts和信息窗体的接口
+使用localStorage实现数据持久化
+使用Axios请求库，二次封装axios，设置请求拦截
